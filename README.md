@@ -4,7 +4,7 @@
 - ⌨️ Curious about everything related to IT
 
 
-# 🖥️Stats
+# 🖥️My knowledge
 <!--- Badge --->
 ![Static Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
