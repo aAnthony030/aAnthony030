@@ -1,6 +1,6 @@
 # 🔰About Me
 - 📖 Student
-- 🌱 Currently learning Python
+- 🌱 Currently learning Python and JavaScript
 - ⌨️ Curious about everything related to IT
 
 
