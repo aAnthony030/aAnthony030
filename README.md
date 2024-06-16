@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 <br>
-# 📊 Stata
+# 📊 Stats
 <!--- Stats --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aAnthony030&show_icons=true&theme=dark) 
 <br>
