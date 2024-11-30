@@ -1,6 +1,5 @@
 # 🌍About Me
 - 📖 Student
-- 🌱 Currently learning JavaScript
 - 🔎 Curious about everything related to IT
 
 
