@@ -14,9 +14,9 @@
 <br>
 # 📊 Stats
 <!--- Stats --->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aAnthony030&show_icons=true&theme=dark) 
+![Anurag's GitHub ![aAnthony030's Stats](https://github-readme-stats.vercel.app/api?username=aAnthony030&theme=dark&show_icons=true&hide_border=false&count_private=true)) 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aAnthony030&hide_progress=true&theme=dark)
+![Top Langs](![aAnthony030's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aAnthony030&theme=dark&show_icons=true&hide_border=false&layout=compact))
 <!---
 aAnthony030/aAnthony030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
